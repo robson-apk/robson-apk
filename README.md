@@ -12,18 +12,19 @@
 <br>
 
 <p align="center">
-  <i>Building indie mobile games with Unity & C# and experimenting with multi-core spatial diffusion and systems code.</i>
+  <i>Indie game developer & low-level systems tinkerer. Building games, full-stack game tools, and exploring multi-core AI inference.</i>
 </p>
 
 ---
 
 </div>
 
-## 🎮 Game Development
+## 🎮 Game Development & Tools
 
-Founder of indie label **Quantic Bit**, focused on mobile game development:
-- Gameplay programming, mechanics, and physics in **Unity & C#**
-- Custom shaders, mobile optimization, and procedural systems
+Founder of indie label **Quantic Bit**, building mobile games and custom developer tooling:
+- Game mechanics, physics, and procedural systems in **Unity (C#)** and **Godot**
+- Custom shaders, performance optimization, and mobile rendering
+- Full-stack game services: authentication, in-app billing pipelines, and asset vaults
 - Commercial releases published on [Google Play](https://play.google.com/store/apps/dev?id=7659489793755917149)
 
 ---
@@ -43,9 +44,10 @@ Founder of indie label **Quantic Bit**, focused on mobile game development:
 
 | Area | Tools & Languages |
 |:---:|---|
-| **Game Dev** | ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
-| **Systems & Code** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **Game Engines** | ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Graphics & Systems** | ![Vulkan](https://img.shields.io/badge/Vulkan-ED2224?style=for-the-badge&logo=vulkan&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white) |
+| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Intel oneAPI](https://img.shields.io/badge/Intel_oneAPI-0071C5?style=for-the-badge&logo=intel&logoColor=white) |
 
 </div>
 
