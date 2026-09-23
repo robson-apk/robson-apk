@@ -29,16 +29,10 @@ Founder of indie label **Quantic Bit**, focused on mobile game development:
 
 ## 💻 Open-Source & Experiments on GitHub
 
-Projects currently published and maintained here on GitHub:
-
 ### ⚡ [SeedPlane — Asynchronous Spatial Text Diffusion](https://github.com/robson-apk/SeedPlane)
 > An experimental text generation prototype that shards text spatially across independent CPU worker cores instead of generating strictly token-by-token.
 > - **Multi-Core Scaling:** Evaluated with 1, 2, and 4 concurrent CPU processes (scaling latency from ~41.8 ms to ~11.9 ms on context $L=1024$).
 > - **Seam Coordination:** Features an adaptive disagreement-defer protocol for boundary fusion and includes an empirical audit comparing Hadamard routing against lightweight message envelopes.
-
-### 🕹️ Graphics & Retro Demos
-- **[DoomFire](https://github.com/robson-apk/DoomFire):** Pure JavaScript implementation of the classic PlayStation Doom fire rendering algorithm.
-- **[SnakeGame](https://github.com/robson-apk/SnakeGame):** Classic arcade snake built with HTML5 Canvas and vanilla JavaScript.
 
 ---
 
