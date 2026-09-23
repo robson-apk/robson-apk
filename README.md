@@ -5,6 +5,7 @@
 ### Indie Game Developer &nbsp;|&nbsp; Founder of Quantic Bit &nbsp;|&nbsp; Systems & AI Tinkerer
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Quantic_Bit-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=7659489793755917149)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/robson.apk)
 [![GitHub](https://img.shields.io/badge/GitHub-robson--apk-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robson-apk)
 [![Location](https://img.shields.io/badge/Recife-Brazil-0080FF?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
@@ -55,6 +56,20 @@ Founder of indie label **Quantic Bit**, focused on mobile game development:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=robson-apk&theme=tokyonight&hide_border=true" alt="Robson's GitHub Streak" />
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+If you enjoy my games, tools, or open-source prototypes, you can support my independent work here:
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/robson.apk" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="46" />
+</a>
 
 </div>
 
