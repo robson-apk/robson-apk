@@ -1,28 +1,80 @@
+<div align="center">
+
 # Robson de Lima Barbosa
 
-Software and game developer based in Recife, Brazil.
+### Indie Game Developer &nbsp;|&nbsp; Founder of Quantic Bit &nbsp;|&nbsp; Systems & AI Tinkerer
 
-Founder of **Quantic Bit**, where I design and build indie mobile games (Unity & C#). I also enjoy tinkering with low-level systems programming, custom tools, and experimental AI architectures.
+[![Google Play](https://img.shields.io/badge/Google_Play-Quantic_Bit-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=7659489793755917149)
+[![GitHub](https://img.shields.io/badge/GitHub-robson--apk-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robson-apk)
+[![Location](https://img.shields.io/badge/Recife-Brazil-0080FF?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
----
+<br>
 
-### Projects & Focus
-
-- **Indie Games:** Solo developer behind titles like *Neon Valley*, *Bay of Shadows*, and *Pocket RPG* on [Google Play](https://play.google.com/store/apps/dev?id=7659489793755917149). Interested in procedural generation, gameplay mechanics, shaders, and mobile optimization.
-- **Systems & Optimization:** C/C++, Linux, SIMD kernels, and exploring software efficiency close to the metal.
-- **AI Research & Prototypes:** Hands-on experiments with parallel diffusion models ([SeedPlane](https://github.com/robson-apk/SeedPlane)), neuro-symbolic reasoning, and CPU-friendly inference.
-
----
-
-### Tech & Tools
-
-- **Game Dev:** Unity, C#, URP, Shaders, Android, iOS
-- **Systems & General:** C++, C, Python, Linux, Git
-- **Machine Learning:** PyTorch, experimental inference & diffusion prototypes
+<p align="center">
+  <i>Building indie mobile games with Unity & C# and experimenting with multi-core spatial diffusion and systems code.</i>
+</p>
 
 ---
 
-### Contact
+</div>
 
-- **Games:** [Google Play Developer Page](https://play.google.com/store/apps/dev?id=7659489793755917149)
-- **Email:** `quanticbitoficial@gmail.com`
+## 🎮 Quantic Bit Games
+
+I design, code, and maintain mobile games published under my indie label **Quantic Bit** on Google Play.
+
+| Game | Details | Tech |
+|---|---|:---:|
+| **[Neon Valley](https://play.google.com/store/apps/dev?id=7659489793755917149)** <br> *(AMOLED, VOID, RIFT)* | Fast-paced minimalist neon action runner with custom shaders, physics mechanics, and mobile optimization. | **Unity / C#** |
+| **Bay of Shadows: Dungeon MMORPG** | Top-down dungeon crawler with real-time combat, equipment systems, and procedural dungeon layouts. | **Unity / C#** |
+| **Pocket RPG Auto Idle** | Strategic progression systems, auto-combat logic, and incremental loot balancing. | **Unity / C#** |
+| **Neon Runner Override** | Reflex arcade runner with dynamic track generation and synthwave visual style. | **Unity / C#** |
+| **Undertide** | Narrative arcade experience and experimental gameplay mechanics. | **Unity / C#** |
+
+👉 **[View All Titles on Google Play Store](https://play.google.com/store/apps/dev?id=7659489793755917149)**
+
+---
+
+## 💻 Open-Source & Experiments on GitHub
+
+Projects currently published and maintained here on GitHub:
+
+### ⚡ [SeedPlane — Asynchronous Spatial Text Diffusion](https://github.com/robson-apk/SeedPlane)
+> An experimental text generation prototype that shards text spatially across independent CPU worker cores instead of generating strictly token-by-token.
+> - **Multi-Core Scaling:** Evaluated with 1, 2, and 4 concurrent CPU processes (scaling latency from ~41.8 ms to ~11.9 ms on context $L=1024$).
+> - **Seam Coordination:** Features an adaptive disagreement-defer protocol for boundary fusion and includes an empirical audit comparing Hadamard routing against lightweight message envelopes.
+
+### 🕹️ Graphics & Retro Demos
+- **[DoomFire](https://github.com/robson-apk/DoomFire):** Pure JavaScript implementation of the classic PlayStation Doom fire rendering algorithm.
+- **[SnakeGame](https://github.com/robson-apk/SnakeGame):** Classic arcade snake built with HTML5 Canvas and vanilla JavaScript.
+
+---
+
+## 🛠️ Stack & Technologies
+
+<div align="center">
+
+| Area | Tools & Languages |
+|:---:|---|
+| **Game Dev** | ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| **Systems & Code** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+
+</div>
+
+---
+
+## 📈 Activity & Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=robson-apk&theme=tokyonight&hide_border=true" alt="Robson's GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+📫 **Contact:** `quanticbitoficial@gmail.com` &nbsp;|&nbsp; 📍 **Location:** Recife, PE, Brazil
+
+</div>
