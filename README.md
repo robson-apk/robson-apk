@@ -18,19 +18,12 @@
 
 </div>
 
-## 🎮 Quantic Bit Games
+## 🎮 Game Development
 
-I design, code, and maintain mobile games published under my indie label **Quantic Bit** on Google Play.
-
-| Game | Details | Tech |
-|---|---|:---:|
-| **[Neon Valley](https://play.google.com/store/apps/dev?id=7659489793755917149)** <br> *(AMOLED, VOID, RIFT)* | Fast-paced minimalist neon action runner with custom shaders, physics mechanics, and mobile optimization. | **Unity / C#** |
-| **Bay of Shadows: Dungeon MMORPG** | Top-down dungeon crawler with real-time combat, equipment systems, and procedural dungeon layouts. | **Unity / C#** |
-| **Pocket RPG Auto Idle** | Strategic progression systems, auto-combat logic, and incremental loot balancing. | **Unity / C#** |
-| **Neon Runner Override** | Reflex arcade runner with dynamic track generation and synthwave visual style. | **Unity / C#** |
-| **Undertide** | Narrative arcade experience and experimental gameplay mechanics. | **Unity / C#** |
-
-👉 **[View All Titles on Google Play Store](https://play.google.com/store/apps/dev?id=7659489793755917149)**
+Founder of indie label **Quantic Bit**, focused on mobile game development:
+- Gameplay programming, mechanics, and physics in **Unity & C#**
+- Custom shaders, mobile optimization, and procedural systems
+- Commercial releases published on [Google Play](https://play.google.com/store/apps/dev?id=7659489793755917149)
 
 ---
 
