@@ -1,67 +1,91 @@
 <div align="center">
 
-# Hi there, I'm Robson 👋
+# Robson de Lima Barbosa
 
-### AI Systems & High-Performance Computing Researcher | Engine Developer
+### 🎮 Founder of Quantic Bit Games &nbsp;|&nbsp; ⚡ AI Systems & Engine Researcher
 
-[![GitHub followers](https://img.shields.io/github/followers/robson-apk?label=Follow&style=social)](https://github.com/robson-apk)
-[![Profile Views](https://komarev.com/ghpvc/?username=robson-apk&color=blueviolet&style=flat-square)](https://github.com/robson-apk)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Quantic%20Bit-414141?style=for-the-badge&logo=googleplay&logoColor=34A853)](https://play.google.com/store/apps/dev?id=7659489793755917149)
+[![GitHub](https://img.shields.io/badge/GitHub-robson--apk-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robson-apk)
+[![Location](https://img.shields.io/badge/Recife-Pernambuco%2C%20Brazil-0080FF?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+
+<br>
 
 <p align="center">
-  <i>"Investigating the boundaries of non-autoregressive spatial text diffusion, neuro-symbolic reasoning, and high-performance bare-metal execution."</i>
+  <b>Bridging the gap between High-Performance Game Engines, Procedural Worlds, and Non-Autoregressive AI.</b><br>
+  <i>Creator of the Neon Valley series, solo indie game developer, and systems researcher building next-generation parallel inference architectures.</i>
 </p>
 
 ---
 
 </div>
 
-## 🔭 Research & Engineering Focus
+## 👨‍💻 Who I Am
 
-- ⚡ **Non-Autoregressive Spatial Diffusion:** Architecting distributed text diffusion models that eliminate the sequential $O(N)$ autoregressive bottleneck through spatial sharding across commodity CPU cores.
-- 🧠 **Neuro-Symbolic Reasoning:** Investigating the transition from continuous latent geometries into discrete, reusable algebraic operators via Minimum Description Length (MDL) compression.
-- 🚀 **High-Performance & Low-Level Computing:** Writing bare-metal C++ kernels, SIMD (ARM NEON / AVX2) vectorization, and cross-platform hardware acceleration (Intel oneAPI / SYCL, Apple Metal).
-- 🎮 **Procedural Systems & Game Tech:** Developing custom procedural world generators, spatial partitioning algorithms, and production mobile game titles.
+I am a software engineer, indie game studio founder, and systems researcher based in Recife, Brazil. 
+
+For over half a decade, I have run **Quantic Bit Games**, designing, programming, and publishing commercial mobile and desktop titles on Google Play and custom engines. My background in **procedural world generation, real-time spatial partitioning, custom physics, and bare-metal performance optimization** is what directly drives my research into modern AI architectures — treating text and token generation not as sequential autoregressive chains, but as **procedural spatial fields rendered across parallel hardware cores**.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## 🎮 Quantic Bit Games — Featured Production Titles
+
+Published indie mobile titles with tens of thousands of downloads across the globe:
+
+| Title | Genre & Features | Platform / Tech |
+|---|---|:---:|
+| **[Neon Valley](https://play.google.com/store/apps/dev?id=7659489793755917149)** <br> *(AMOLED, VOID, RIFT)* | Fast-paced minimalist neon action runner featuring custom post-processing, physics mechanics, GPGS integration, and URP porting. | **Unity / C# / Android & iOS** |
+| **Bay of Shadows: Dungeon MMORPG** | Top-down dungeon crawler with real-time combat, equipment progression, and procedural encounter design. | **Unity / C# / Mobile** |
+| **Pocket RPG Auto Idle** | Strategic character progression, idle combat mechanics, and complex loot generation balancing. | **Unity / C# / Mobile** |
+| **Neon Runner Override** | High-speed reflex arcade runner with dynamic track generation and synthwave aesthetics. | **Unity / C# / Android** |
+| **Undertide & Idle Hero** | Narrative arcade and incremental systems exploration. | **Unity / C# / Mobile** |
+
+👉 **[Explore Full Portfolio on Google Play](https://play.google.com/store/apps/dev?id=7659489793755917149)**
+
+---
+
+## 🧠 AI & Systems Research Highlights
+
+Applying game engine spatial mechanics, procedural hashing, and low-level kernel optimization to artificial intelligence:
+
+### ⚡ [SeedPlane — Spatial Text Diffusion Across CPU Cores](https://github.com/robson-apk/SeedPlane)
+- **Concept:** Re-imagines text generation as spatial rendering across independent CPU workers, eliminating the sequential $O(N)$ autoregressive bottleneck.
+- **Empirical Results:** Delivers a **3.50x wall-clock speedup** across 4 commodity CPU processes (scaling from 41.8 ms to 11.9 ms on context $L=1024$).
+- **Scientific Audit:** Comprehensive 270,000-decision paired audit comparing Sylvester Hadamard routing against exact message envelopes with an adaptive `disagreement-defer` seam scheduler (+16.97% boundary coherence).
+
+### 🔬 SARA (Sparse Associative Recurrent Abstraction)
+- **Concept:** A neuro-symbolic reasoning architecture exploring the transition from continuous neural representations to discrete, reusable algebraic operators via **Minimum Description Length (MDL)** compression.
+- **Milestone:** Maintained **100.0% out-of-distribution reasoning accuracy** at depth 20 under 12% training label noise, while standard recurrent dense networks collapsed to 44.6%.
+
+### 🛠️ Bare-Metal C++ & Low-Level SIMD Optimization
+- Crafting handcrafted **ARM64 NEON (`sdot`) and AVX2 SIMD kernels** for quantized neural execution directly on consumer hardware.
+- Custom Linux kernel distributions (*Mino TV Linux BORE*), embedded Android kiosk runtimes, and low-level reverse engineering.
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-| Domain | Technologies |
+| Category | Technologies & Tools |
 |---|---|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **AI & Acceleration** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Intel oneAPI](https://img.shields.io/badge/Intel%20oneAPI%20%2F%20SYCL-0071C5?style=flat-square&logo=intel&logoColor=white) ![Apple Metal](https://img.shields.io/badge/Apple%20Metal-000000?style=flat-square&logo=apple&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
-| **Engines & Tools** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| **Game Development** | `Unity 6 / 2022+` &bull; `C#` &bull; `URP (Universal Render Pipeline)` &bull; `Shaders (HLSL/ShaderGraph)` &bull; `Plastic SCM` &bull; `Mobile Optimization` |
+| **Systems & Low-Level** | `C++` &bull; `C` &bull; `SIMD (ARM NEON / AVX2)` &bull; `Linux Kernel` &bull; `Bash/Zsh` &bull; `PowerShell` &bull; `Android NDK` |
+| **AI / Machine Learning** | `PyTorch` &bull; `Intel oneAPI (SYCL / IPEX)` &bull; `Apple Metal` &bull; `Spatial Diffusion` &bull; `Neuro-Symbolic Reasoning` &bull; `SentencePiece` |
+| **Web & Tooling** | `JavaScript` &bull; `TypeScript` &bull; `HTML5 Canvas / WebGL` &bull; `Git / GitHub Actions` &bull; `FastAPI` |
 
 </div>
 
 ---
 
-## 🌟 Featured Open-Source Research
+## 📬 Connect & Collaborate
 
-### [SeedPlane: Spatial Text Diffusion Across Independent CPU Cores](https://github.com/robson-apk/SeedPlane)
-> An open-source research architecture and distributed execution protocol for non-blocking, multi-core text diffusion.
-> - **Core Achievement:** Delivers a **3.50x wall-clock speedup** across 4 commodity CPU worker processes (scaling from ~41.8 ms down to ~11.9 ms on context $L=1024$).
-> - **Boundary Coordination:** Evaluates deterministic Hadamard orthogonal routing versus exact message envelopes across 270,000 empirical decisions, achieving 100% boundary noise filtration.
-> - **Adaptive Seam Deferral:** Boosts boundary coherence by **+16.97%** when worker proposals disagree.
+- 🎮 **Studio:** Quantic Bit Games
+- 📍 **Base:** Recife, Pernambuco, Brazil
+- ✉️ **Inquiries & Research:** `quanticbitoficial@gmail.com`
+- 💼 **Google Play:** [Quantic Bit Developer Page](https://play.google.com/store/apps/dev?id=7659489793755917149)
 
----
-
-## 📊 GitHub Analytics
+<br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=robson-apk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Robson's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-apk&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="165" />
-
-</div>
-
----
-
-<div align="center">
-
-💼 **Explore My Commercial Game Releases:** [Google Play Developer Page](https://play.google.com/store/apps/dev?id=7659489793755917149)  
-📍 **Location:** Recife, Brazil
-
+  <sub>Designed with precision. Committed to open research and high-performance engineering.</sub>
 </div>
